@@ -17,7 +17,7 @@
 Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
 
 ## Contribution Guidelines:
-### None, do whatever the f*** you want
+### None, do whatever you want
 
 ## Security
 
